@@ -1,5 +1,14 @@
 <h3 align="center">A passionate developer from India</h3>
 
+- 💬 Ask me about **flutter, javascript and backend**
+
+- 📫 Reach me at **01himanshugautam@gmail.com**
+
+- 👨‍💻 All of my projects are available at (https://github.com/01himanshugautam?tab=repositories)
+
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01himanshugautam&label=Profile%20views&color=0e75b6&style=flat" alt="01himanshugautam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01himanshugautam" alt="01himanshugautam" /></a> </p>
